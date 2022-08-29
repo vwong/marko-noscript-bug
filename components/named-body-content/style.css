@@ -1,0 +1,7 @@
+.want-a .have-b {
+  display: none;
+}
+
+.want-b .have-a {
+  display: none;
+}
