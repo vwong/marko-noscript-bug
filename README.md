@@ -10,5 +10,6 @@ itself, and the output of `<named-body-content>` is broken. Fortunately, there
 is a workaround for the moment as demonstrated by
 `<named-body-content-workaround>`.
 
-The problem appears specific to named body contents. The unnamed version
-`<unnamed-body-content>` seems to work correctly.
+The problem appears not to be specific to named body contents. The unnamed
+version `<unnamed-body-content>` is also broken with the same workaround in
+`<unnamed-body-content-workaround>`.
